@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pawciow/CLionProjects/Graf/const.h
+iostream
+-
+fstream
+-
+vector
+-
+list
+-
+map
+-
+algorithm
+-
+climits
+-
+
+/home/pawciow/CLionProjects/Graf/dijkstra.h
+graph.h
+/home/pawciow/CLionProjects/Graf/graph.h
+
+/home/pawciow/CLionProjects/Graf/graph.h
+prepareGraph.h
+/home/pawciow/CLionProjects/Graf/prepareGraph.h
+
+/home/pawciow/CLionProjects/Graf/main.cpp
+prepareGraph.h
+/home/pawciow/CLionProjects/Graf/prepareGraph.h
+graph.h
+/home/pawciow/CLionProjects/Graf/graph.h
+dijkstra.h
+/home/pawciow/CLionProjects/Graf/dijkstra.h
+
+/home/pawciow/CLionProjects/Graf/prepareGraph.h
+const.h
+/home/pawciow/CLionProjects/Graf/const.h
+

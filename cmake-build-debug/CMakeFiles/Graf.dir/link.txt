@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Graf.dir/main.cpp.o  -o Graf 
