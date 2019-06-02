@@ -1,5 +1,5 @@
-# dijkstra
-Very simple project made to learn how graph works
+# Dijkstra
+Very simple project made to learn how graph works. The algorithm used to finding a path is Dijkstra - implementation based on Cormen
 
 # Wages on the graph
 Wages are made completly random by using:
